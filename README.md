@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cagoeth
 - 👀 I’m interested in cooking, hiking, home education, religion, nutrition
-- 🌱 I’m currently learning PlSQL, Argos, scribe, general data science
+- 🌱 I’m currently learning PLSQL, Argos, scribe, general data science
 - 💞️ I’m looking to collaborate on PlSQL
 - 📫 How to reach me IM Google cagoeth
 
